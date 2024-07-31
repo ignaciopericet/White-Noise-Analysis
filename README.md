@@ -1,16 +1,19 @@
-# White-Noise-Analysis
-This repository contains a series of Jupyter Notebooks dedicated to the analysis and application of white noise in financial modeling. The notebooks cover a range of topics, including risk management, random walks, Monte Carlo simulations, and ARIMA models.
+# White Noise Analysis
 
-Contributing
-We welcome contributions to enhance the functionality of this repository. Please follow these steps to contribute:
+## Overview
+This project provides tools for analyzing white noise processes in financial time series, including random walk simulations, ARIMA modeling, and backtesting trading strategies.
 
-Fork the repository.
-Create a new branch with a descriptive name.
-Make your changes.
-Submit a pull request with a description of your changes.
-License
-This project is licensed under the MIT License.
+## Table of Contents
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Features](#features)
+4. [Examples](#examples)
+5. [Contributing](#contributing)
+6. [License](#license)
 
-Contact
-For any inquiries or issues, please contact ignacio.pericetnavar@udc.edu 
+## Installation
+To set up the environment, run the following command:
+```bash
+pip install -r requirements.txt
+
 
