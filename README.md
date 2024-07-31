@@ -1,7 +1,7 @@
 # White Noise Analysis
 
 ## Overview
-This project provides tools for analyzing white noise processes in financial time series, including random walk simulations, ARIMA modeling, and backtesting trading strategies.
+This project provides tools for analyzing white noise processes in financial time series, including random walk simulations, and ARIMA modeling.
 
 ## Table of Contents
 1. [Installation](#installation)
