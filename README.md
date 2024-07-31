@@ -1,4 +1,4 @@
-# Financial Modeling with Jupyter Notebooks
+#  White Noise Study
 
 This repository contains a collection of Jupyter Notebooks dedicated to financial modeling and analysis. These notebooks are designed to provide practical insights and tools for various aspects of financial modeling, including Monte Carlo simulations, random walk generation, and ARIMA modeling.
 
