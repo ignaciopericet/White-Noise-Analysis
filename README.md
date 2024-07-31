@@ -41,7 +41,8 @@ To get started with these notebooks, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/ignaciopericet/white-noise-analysis.git
+   git clone https://github.com/ignaciopericet/White-n
+   Noise-Analysis.git
 
 
 
